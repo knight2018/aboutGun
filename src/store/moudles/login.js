@@ -2,6 +2,7 @@ const user = {
     state: {
         maskingWidth: 0,
         maskingHeight: 0
+
     },
     getters: {
         
